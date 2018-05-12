@@ -1,0 +1,32 @@
+_repo: Presten-som-ikke-kunde-brukes_20550
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Winther, Paul
+    gutenberg_agent_id: '9375'
+    url: http://www.gutenberg.org/2009/agents/9375
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordberg, Carl E. (Carl Edin)
+    alias: Nordberg, Carl Edin
+    birthdate: 1880
+    deathdate: 1926
+    gutenberg_agent_id: '9374'
+    url: http://www.gutenberg.org/2009/agents/9374
+description: ''
+gutenberg_issued: '2007-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20550'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian Americans -- Fiction'
+- !lcc 'PT'
+title: Presten som ikke kunde brukes
+url: http://www.gutenberg.org/ebooks/20550
